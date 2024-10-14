@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: 'Machine Learning & Data Engineer',
-    company: "RevolovAI (Remote, USA)",
+    company: "Innowise Group (Remote, USA)",
     duration: "(Feb 2022 - Apr 2024)"
   },
   {
