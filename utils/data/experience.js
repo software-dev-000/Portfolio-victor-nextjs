@@ -21,12 +21,12 @@ export const experiences = [
     id: 4,
     title: "Python Developer",
     company: "iQlance Solutions (Dallas, Texas, USA)",
-    duration: "(Mar 2016 - Sep 2017)"
+    duration: "(Aug 2015 - Sep 2017)"
   },
   {
     id: 5,
     title: "Python Developer Intern",
     company: "Stack Overflow (New York, New York, USA)",
-    duration: "(Feb 2015 - Jan 2016)"
+    duration: "(Feb 2015 - July 2015)"
   }
 ]
